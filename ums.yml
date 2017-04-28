@@ -1,0 +1,3 @@
+---
+billing:
+  endpoint: http://billing
